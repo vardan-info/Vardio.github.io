@@ -1,0 +1,25 @@
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  body {
+  margin:0;
+  }
+
+  .block_gallery{
+    display:grid;
+  }
+
+  .main-text{
+   display:grid;
+  }
+
+  .block_gallery{
+   display:grid;
+  }
+
+  .fixed-gallery{
+    display:grid;
+  }
